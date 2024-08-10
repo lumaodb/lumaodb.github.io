@@ -3,6 +3,7 @@
 | :--- | :--- | :--- |
 | Freshco | Yes | 自助机器|
 | RCSS | Yes | 自助机器|
+| SDM | Yes | 自助机器|
 | Ikea | Yes | 貌似只有一种机器|
 | Menoris Pos机 | Yes | country farm market等|
 | Clover Pos机| Yes | abd ctr那个骑电动的就是|

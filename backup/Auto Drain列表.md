@@ -2,6 +2,8 @@
 | 商家 | Auto-drain | 备注 |
 | :--- | :--- | :--- |
 | Freshco | Yes | 自助机器|
+| rcss | Yes | 自助机器|
+| menoris Pos机 | Yes | country farm market等|
 | Clover Pos机| Yes | abd ctr那个骑电动的就是|
 | 中国世界 | No | 2.4%手续费，自己分单结账|
 |大统华|No|可以让他们分单|

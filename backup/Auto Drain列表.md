@@ -10,7 +10,9 @@
 | Ikea | :white_check_mark: | 貌似只有一种机器|
 | Menoris Pos机 | :white_check_mark: | country farm market等|
 | Clover Pos机| :white_check_mark: | abd ctr那个骑电动的就是|
-| 中国世界 | :x: | 2.4%手续费，自己分单结账|
-|大统华|:x:|可以让他们分单|
+|大统华|:x:|可以分单|
+|Costco|:x:|可以分单|
 |丰泰|:x:|自己分单结账|
+| 中国世界 | :x: | 2.4%手续费，自己分单结账|
+
 
